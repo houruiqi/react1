@@ -15,7 +15,7 @@ export default class App extends Component {
     render() {
         // let {url} = this.props.match;
         return (
-            <Router basename="/build">
+            <Router basename="/react1">
                 <div>
                     <Header />
                 </div>
