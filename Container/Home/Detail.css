@@ -1,0 +1,44 @@
+.title{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+.detail{
+    margin-left: 30px;
+}
+.markdown-text h2{
+    margin-top: 20px;
+    border-bottom: 1px solid rgb(233, 232, 232);
+    height: 40px;
+}
+.markdown-text p{
+    color: rgb(68, 68, 68);
+    margin-top: 20px;
+    height: 20px;
+}
+.markdown-text a{
+    color:rgb(76, 182, 201);
+    text-decoration: none;
+    margin-top: 20px;
+    height: 30px;
+}
+.markdown-text ul{
+    margin-left: 30px;
+    margin-top: 20px;
+    
+}
+.markdown-text ul li{
+    line-height: 30px;
+}
+ul{
+    height: 30px;
+    margin-left: 20px;
+    margin-top: 10px;
+    border-bottom: 1px solid rgb(233, 232, 232);
+
+}
+ul li{
+    font-size: 12px;
+    margin-left: 25px;
+    float: left;
+    color:  rgb(134, 134, 134);
+}
