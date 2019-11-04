@@ -1,4 +1,5 @@
 import React, { Component } from 'react'
+import {Link} from 'react-router-dom'
 
 export default class Signin extends Component {
     render() {
@@ -15,9 +16,9 @@ export default class Signin extends Component {
                     </div>
                     {/* <input type="hidden" name="_csrf" value="vq7xD4JX-YKtqZPH3Rc8tla2TZw2rRNtA0F8"/> */}
                     <div class="form-actions">
-                        <a href="/react1">
+                        <Link to="/">
                             <span class="info">通过 GitHub 登录</span>
-                        </a>
+                        </Link>
                         <a id="forgot" href="/search_pass">忘记密码了?</a>
                     </div>
                 </form>
