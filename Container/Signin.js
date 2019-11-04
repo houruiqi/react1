@@ -15,7 +15,7 @@ export default class Signin extends Component {
                     </div>
                     {/* <input type="hidden" name="_csrf" value="vq7xD4JX-YKtqZPH3Rc8tla2TZw2rRNtA0F8"/> */}
                     <div class="form-actions">
-                        <a href="/">
+                        <a href="/react1">
                             <span class="info">通过 GitHub 登录</span>
                         </a>
                         <a id="forgot" href="/search_pass">忘记密码了?</a>
